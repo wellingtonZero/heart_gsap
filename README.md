@@ -1,4 +1,4 @@
-<h1>GSAP (GreenSock Animation Platform) é uma biblioteca JavaScript extremamente popular e poderosa, utilizada para criar animações web de alta performance. Ela é amplamente reconhecida por sua flexibilidade, facilidade de uso e capacidade de criar animações complexas e suaves em praticamente qualquer elemento HTML.</h1>
+<h3>GSAP (GreenSock Animation Platform) é uma biblioteca JavaScript extremamente popular e poderosa, utilizada para criar animações web de alta performance. Ela é amplamente reconhecida por sua flexibilidade, facilidade de uso e capacidade de criar animações complexas e suaves em praticamente qualquer elemento HTML.</h3>
 
 Por que usar GSAP?
 
